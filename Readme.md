@@ -1,20 +1,22 @@
-# Session Notes  
----
+# AMA Repository
 
-##  Topics Covered
+This repository stores notes from **AMA (Ask Me Anything) sessions** conducted during the **Python Django Training**.
 
-- **Suru Abhishek** – What is List  
-- **Akshat** – Grep in CLI  
-- **Tharun** – Extend in List  
-- **Mudassir** – What is Git  
-- **Sanjay** – pop() and remove()  
-- **Sudheer** – Type Casting  
-- **Sai Ram** – `__init__` Method  
-- **Ashok** – Lambda Function  
-- **Sireesha** – Mutable and Immutable  
-- **Abhay Sharma** – Data Types  
-- **Saurav** – Inheritance  
-- **Venu** – S in SOLID  
-- **Meghana** – Branch Creation in Git  
-- **Venkat Shiva** – SED in CLI  
+Each AMA session contains:
 
+* Date of the session
+* Questions discussed
+* Short explanations or answers
+
+The purpose of this repository is to maintain a **record of the technical discussions** and help in revising important programming concepts.
+
+Topics generally include:
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
+* Programming fundamentals
+
+Each AMA session is saved as a separate `.md` file for easy reference.
